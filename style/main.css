@@ -1,0 +1,19 @@
+body{
+margin:0;
+font-family:-apple-system,BlinkMacSystemFont,system-ui;
+background:#0f1115;
+overflow:hidden;
+}
+
+#desktop{
+width:100vw;
+height:100vh;
+background:linear-gradient(120deg,#0f2027,#203a43,#2c5364);
+}
+
+.glass{
+backdrop-filter: blur(30px);
+background:rgba(255,255,255,0.08);
+border-radius:14px;
+border:1px solid rgba(255,255,255,0.15);
+}

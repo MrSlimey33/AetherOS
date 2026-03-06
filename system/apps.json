@@ -1,0 +1,20 @@
+[
+{
+"id":"store",
+"name":"App Store",
+"icon":"",
+"entry":"./apps/store/store.js"
+},
+{
+"id":"notes",
+"name":"Notes",
+"icon":"",
+"entry":"./apps/notes/notes.js"
+},
+{
+"id":"terminal",
+"name":"Terminal",
+"icon":"",
+"entry":"./apps/terminal/terminal.js"
+}
+]
